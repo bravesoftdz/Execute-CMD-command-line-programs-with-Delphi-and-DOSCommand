@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/11/14 20:14:26.000.891,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 08:57:28.000.814,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 10:28:55.000.930,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 11:30:19.000.680,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/20 11:36:21.000.183,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/22 11:55:09.000.432,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/11/22 11:55:55.000.796,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/12/06 16:41:19.000.757,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017/12/08 15:54:02.000.199,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/01/02 17:09:59.000.518,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/01/05 10:42:39.000.068,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/03/01 09:21:58.000.213,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/03/01 15:19:54.000.205,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/03/01 16:34:45.000.931,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/03/02 17:18:56.000.551,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/04/19 19:59:21.000.201,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/04/20 07:33:48.000.235,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/04/20 07:52:12.000.986,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/04/24 13:00:33.000.488,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/04/24 13:09:19.000.979,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/04/24 13:09:52.000.801,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/04/24 13:10:46.000.331,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/04/24 13:26:37.000.959,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/04/24 13:27:46.000.367,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/04/24 13:28:06.000.524,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/04/24 14:00:50.000.052,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/05/15 14:13:03.000.238,=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/05/15 14:17:04.000.063,E:\AppEarlyDev\FMX DOSCommand\main.fmx=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.fmx</Transaction>
+    <Transaction>2018/05/15 14:17:04.000.063,E:\AppEarlyDev\FMX DOSCommand\main.pas=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2018/05/15 14:17:25.000.792,E:\AppEarlyDev\FMX DOSCommand\DOSCommanddemo.dproj=C:\Users\GregB\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2018/05/15 16:04:38.000.889,E:\AppEarlyDev\FMX DOSCommand\DOSCommanddemo.dproj=E:\AppEarlyDev\FMX DOSCommand\DOSCommanddemo.dproj</Transaction>
+    <Transaction>2018/05/15 18:00:08.000.247,E:\AppEarlyDev\FMX DOSCommand\DOSCommanddemo.dproj=E:\AppEarlyDev\FMX DOSCommand\DOSCommanddemo.dproj</Transaction>
+    <Transaction>2018/05/17 12:30:45.000.792,E:\AppEarlyDev\FMX DOSCommand\DOSCommanddemo.dproj=E:\AppEarlyDev\FMX DOSCommand\DOSCommanddemo.dproj</Transaction>
+    <Transaction>2018/05/23 10:15:29.000.205,G:\Developed Apps\FMX DOSCommand\DOSCommanddemo.dproj=G:\Developed Apps\FMX DOSCommand\DOSCommanddemo.dproj</Transaction>
+    <Transaction>2018/05/23 10:17:58.000.125,G:\Developed Apps\FMX DOSCommand\DOSCommanddemo.dproj=G:\Developed Apps\FMX DOSCommand\DOSCommanddemo.dproj</Transaction>
+    <Transaction>2018/05/23 12:29:53.353,G:\Developed Apps\FMX DOSCommand\DOSCommanddemo.dproj=G:\Developed Apps\FMX DOSCommand\DOSCommanddemo.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
