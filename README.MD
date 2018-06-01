@@ -127,7 +127,7 @@ and no need to change during execution
 
 **What functions don’t Work**
 
-II could not get results from the following functions:- ‘Lines’, ‘Outputlines’
+I could not get results from the following functions:- ‘Lines’, ‘Outputlines’
 and ‘Environment(strings)’ as it resulted in error outputs.
 
 **Extra Functions**
